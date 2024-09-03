@@ -22,8 +22,10 @@ Sou estudante de **Ciência da Computação** e atualmente estou me aventurando 
 </picture>
 </p>
 
-### Tecnologias que Estou Explorando
-------------------
+<h2 align="center" class="heading-element" dir="auto">
+    Tecnologias que Estou Explorando:
+</h2>
+
 
 
 <p align="center">
