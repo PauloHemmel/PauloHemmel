@@ -2,12 +2,16 @@
 
 ### Olá! Eu sou o Paulo Hemmel! ✋
 
-Sou estudante de **Ciência da Computação** e atualmente estou me aventurando no mundo do **desenvolvimento front-end**.
-<br><br>
+<h4 align="center" class="heading-element" dir="auto">
+    Sou estudante de Ciência da Computação e atualmente estou me aventurando no mundo do desenvolvimento front-end.
+</h4>
+
+--------------------
+
+<br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohemmel&layout=compact&true&theme=dark&border_color=0c9823&title_color=0c9823&locale=pt-br" alt="Top Langs"><br><br>
 
-   
 
 <picture>
   <source
